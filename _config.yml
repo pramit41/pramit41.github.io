@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Welcome to Pramit's site
+title: Welcome to Pramit's website
 
 # Your name to show in the footer
 author: Pramit Thapa
@@ -51,7 +51,6 @@ round-avatar: false
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "pramitthapa@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: github.com/pramit41
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
@@ -81,7 +80,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
