@@ -21,7 +21,8 @@ author: Pramit Thapa
 
 navbar-links:
   About Me: "aboutme"
-  Blog: "year-archive"
+  Blog: "blogs"
+  Projects: "projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
