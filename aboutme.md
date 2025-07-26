@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Little snippet about me 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Pramit Thapa. I am a current software engineer at Fidelity Investments with a passion for emerging technologies in frontend, cloud, and AI. In my free time, I like to go on nature walks with my family, read books, play videogames, watch sports (mostly soccer) and hopefully wrtie more blogs on here. Occasionaly, I play the guitar and like to find new experiences around the city with my friends and colleagues. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Education
+I have a degree in B.S. Computer Science from the University of North Carolina at Chapel Hill (Go Heels!)
