@@ -19,3 +19,8 @@ Once we made it out of the busy airport, one of my dad’s friends picked us up 
 Another interesting development I noticed was the popularity of electric vehicles (EVs). I saw all kinds—private cars, public minibuses, and even small taxis. It felt like every other vehicle was electric. I later learned that the Nepal government offers generous tax incentives for EV owners, making them significantly cheaper. Despite the patchy road infrastructure, it was surprising to see such a strong push toward sustainable transportation. Even the U.S. isn’t close to having that many EVs on the road.
 
 We stayed at my uncle’s place for a few days, fighting off jet lag and adjusting to the local time. In just a couple of days, I began to see vast differences between the lifestyle in Kathmandu and the US. Unlike the quiet suburbs of North Carolina, the area we were staying at felt quite crowded and constantly in motion. Children played in the streets, shoppers browsed local stores, and construction work echoed nearby. Most people got around on foot or by public transportation, so the streets were always filled with pedestrians heading to work, visiting temples, or running errands. It was refreshing to be in a place so full of life, a stark contrast to the slower pace I’d grown used to. But there were moments when I found myself wishing for a bit more peace and quiet — a wish that would be granted once I ventured into Nepal’s rural heartlands. Stay tuned for part two of the blog where I will talk about my adventures to rural Nepal.
+
+<figure>
+  <img src="/assets/img/city.jpg" alt="View from Uncle's house">
+  <figcaption>View from Uncle's house</figcaption>
+</figure>
