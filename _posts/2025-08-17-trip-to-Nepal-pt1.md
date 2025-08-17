@@ -7,8 +7,10 @@ categories: [Nepal, Travel, blog]
 
 I couldn’t believe it had been nine and a half years since I first arrived in the U.S. from Nepal. The memories of my birthplace had started to fade. I could only vaguely recall our house in Sano Bharang, near the Swoyambhunath Stupa—also known as the Monkey Temple, famous for the hundreds of monkeys that roam its grounds—where I spent much of my childhood. My family had initially planned to visit Nepal after I finished high school in 2020, but the pandemic forced us to postpone. Once college began, it became even harder to find time to travel across the world, as I was often tied up with summer courses or internships during longer breaks. Finally, after accepting my first full-time job and earning enough PTO, I made the decision to return to Nepal—nearly a decade later.
 
-![View from Nepal Airport](/assets/img/airport.jpg)
-
+<figure>
+  <img src="//assets/img/airport.jpg" alt="View from Nepal Airport">
+  <figcaption>View from Nepal Airport</figcaption>
+</figure>
 
 After an exhausting journey that included three flights and over seven hours of layovers, we finally arrived in Kathmandu—the capital city of Nepal—on March 3, 2025. As I stepped off the plane, I paused for a moment to take in the view around me. In the distance, I could see the valley surrounded by familiar hills, and below them, rows of homes filled nearly every available space. It struck me how unique this view was—where else could you see such a natural wall of green fencing in a bustling city of nearly two million people? Taking in the scenery, I felt a wave of nostalgia. I had missed this place more than I realized, and I was truly glad to be back.
 
