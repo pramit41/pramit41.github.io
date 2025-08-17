@@ -8,7 +8,7 @@ categories: [Nepal, Travel, blog]
 I couldn’t believe it had been nine and a half years since I first arrived in the U.S. from Nepal. The memories of my birthplace had started to fade. I could only vaguely recall our house in Sano Bharang, near the Swoyambhunath Stupa—also known as the Monkey Temple, famous for the hundreds of monkeys that roam its grounds—where I spent much of my childhood. My family had initially planned to visit Nepal after I finished high school in 2020, but the pandemic forced us to postpone. Once college began, it became even harder to find time to travel across the world, as I was often tied up with summer courses or internships during longer breaks. Finally, after accepting my first full-time job and earning enough PTO, I made the decision to return to Nepal—nearly a decade later.
 
 <figure>
-  <img src="//assets/img/airport.jpg" alt="View from Nepal Airport">
+  <img src="/assets/img/airport.jpg" alt="View from Nepal Airport">
   <figcaption>View from Nepal Airport</figcaption>
 </figure>
 
